@@ -1,0 +1,49 @@
+public class className {
+  public static void main(String[] args) {
+
+  }
+}
+Java key words
+
+class
+ - Used to define a class.
+
+name of the class  
+ public class className {
+
+ }
+ - Class name should match the file class name.
+
+Access modifiers  
+ - An access modifier that defines how other parts of the code can use the "main"
+   method code block.
+ - Examples of access modifiers are: 
+    - public 
+    - private 
+    - protected
+    - package private
+
+static
+ - Indicates that this method belongs to the class rather than an object you can create 
+   from this class.
+
+void
+ - Void means that this main method does not return anything. It only returns
+   out an action (text or a number).
+main
+ - The name of the function/method
+Methods
+ - Methods are used to group together operations connected to each other.
+ - Methods allow us to "reuse" a piece of code from anywhere.
+ - Methods make our code more readable.
+
+ - The main() method
+  - A special starting method for starting java programs.
+
+System.out.println();
+ - System is a built-in function representing our system.
+ - out is an attribute of System and its responsible for outputs.
+ - println() is a function of out that print out single lines.
+
+- each line of code in Java ends with a semicolon;
+
